@@ -1,6 +1,7 @@
 
 # Psychomotor Vigilance Task (PVT) - MultiNap - Adriana Michalak - 14.04.2020 
 
+# the task was implemented in the E-Prime sofware by AM 
 # analysis follow Dinges --> https://academic.oup.com/sleep/article/34/5/581/2281465
 
 # ANALYSES: analyses for ALL participants in given directory; OUTCOMES: outcomes are generated for ALL participants (merged single outcome files)
